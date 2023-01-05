@@ -12,4 +12,4 @@ Tech Stack
 - Database: MySQL, MongoDB, Firebase, Supabase.
 - Workspace: Notion.
 
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andywahyudi&show_icons=true&bg_color=00000000)
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andywahyudi&show_icons=true&bg_color=FFFFFF)
